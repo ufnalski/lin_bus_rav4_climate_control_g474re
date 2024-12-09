@@ -39,7 +39,7 @@ and the one I enjoy at the university:
 [^2]: Any logic analyzer will do the job, even the one for 10 EUR, if compatible with a software that offers a LIN bus decoder, e.g. [Logic 2](https://www.saleae.com/pages/downloads), [DSView](https://www.dreamsourcelab.com/download/) or [KingstVIS](https://www.qdkingst.com/en/download). The max data transfer speed allowed by the LIN standard is just 20 kBaud.
 
 # Wiring diagram
-![Toyota RAV4 V (XA50) System Wiring Diagrams - Climatronic panel](/Assets/Images/toyota_rav4_genV_air_conditioning_control_panel.jpg)
+![Toyota RAV4 V (XA50) System Wiring Diagrams - Climatronic panel](/Assets/Images/toyota_rav4_genV_air_conditioning_control_panel.JPG)
 
 For more visit [/Assets/Images/](/Assets/Images/).
 
